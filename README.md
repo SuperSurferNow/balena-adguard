@@ -20,7 +20,7 @@ AdGuard Home web interface without any additional configuration.
 
 You can one-click-deploy this project to balena using the button below:
 
-[![deploy with balena](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/klutchell/balena-adguard)
+[![deploy with balena](https://balena.io/deploy.svg)](https://dashboard.balena-cloud.com/deploy?repoUrl=https://github.com/SuperSurferNow/balena-adguard)
 
 ## Manual Deployment
 
